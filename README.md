@@ -8,7 +8,7 @@ Check out the live deployment here: [trendprophet.streamlit.app](https://trendpr
 
 ## ✨ Key Features
 * **Automated Time-Series Analysis:** Leveraging the Prophet forecasting model for high accuracy.
-* **Real-Time Data:** Powered by Yahoo Finance for up-to-the-minute market tracking.
+* **Real-Time Data:** Powered by Yahoo Finance for daily market tracking.
 * **Interactive Visualizations:** Dynamic charts built with Plotly for deep-dive analysis.
 * **Unbiased Insights:** Purely data-driven results—no "guru" opinions included.
 
