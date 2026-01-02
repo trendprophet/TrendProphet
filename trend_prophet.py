@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # 1. Page Configuration
 st.set_page_config(
     page_title="TrendProphet | Financial Forecaster", 
-    page_icon="📊", 
+    page_icon="📈", 
     layout="wide"
 )
 
@@ -27,7 +27,7 @@ def load_data(ticker):
 
 # 3. Sidebar
 with st.sidebar:
-    st.title("📊 TrendProphet")
+    st.title("📈 TrendProphet")
     
     # Added a help tooltip to explain international suffixes
     ticker = st.text_input(
